@@ -1,6 +1,8 @@
 Analysing Twitter feed concerning federal politics, to work out voter sentiment and the topics they are most
 concerned about.
 
+Models used : Multinomial Naive Bayes, Bernoulli naive bayes and Decision Trees.
+
 Given a collection of tweets from the 2016 Australian Federal Elec-tion, a subset of those posted during the election campaign that contained the #auspol hashtag.
 The tweets are labelled by domain experts for sentiment and topic.
 
